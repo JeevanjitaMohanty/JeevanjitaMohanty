@@ -2,7 +2,8 @@
 - 👀 I’m interested in ...working in cyber security as entry level cyber Analyst
 - 🌱 I’m currently learning ...Google certificate project of cyber security
 - 💞️ I’m looking to collaborate on ...cyber security team
-- I am intrested in this cyber security in class 12...I want to help people to save them from cyber security attacks..and to know new knowledge 
+- I am intrested in this cyber security from class 12...I want to help people to save them from cyber security attacks..and to know new knowledge
+-  
 - 📫 How to reach me ...
 
 <!---
